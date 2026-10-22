@@ -1,0 +1,14 @@
+package com.url.shortener.security;
+
+
+@Configuration
+@EnableWebSecurity
+@EnableMethodSecurity
+@AllArgsConstructor
+public class WebSecurityConfig {
+	
+	
+	
+	
+
+}

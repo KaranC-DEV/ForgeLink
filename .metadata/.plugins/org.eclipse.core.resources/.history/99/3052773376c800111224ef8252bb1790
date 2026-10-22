@@ -1,0 +1,14 @@
+spring.application.name=url-shortener-sb
+
+spring.datasource.url= jdbc:postgresql://localhost:5432/url-shortener
+spring.datasource.username=postgres
+spring.datasource.password=root
+
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.properties.hibernate.format_sql=true
+spring.jpa.show-sql=true
+
+spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.PostgreSQLDialect
+
+jwt.expiration=172800000
+jwt.secret
