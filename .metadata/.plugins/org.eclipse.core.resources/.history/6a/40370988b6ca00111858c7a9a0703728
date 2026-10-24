@@ -1,5 +1,0 @@
-package com.url.shortener.repository;
-
-public interface ClickEventRepository {
-
-}

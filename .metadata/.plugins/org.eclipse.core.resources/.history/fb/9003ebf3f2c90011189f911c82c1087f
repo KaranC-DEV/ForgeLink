@@ -1,9 +1,0 @@
-package com.url.shortener.security.jwt;
-
-@data
-public class JwtAuthenticationResponse {
-
-	
-	private String token;
-	
-}
